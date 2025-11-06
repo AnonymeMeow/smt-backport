@@ -124,7 +124,7 @@ metadata = dict(
         ],
         "gpx": ["egobox~=0.32"],  # pip install smt[gpx]
     },
-    python_requires=">=3.9",
+    python_requires=">=3.8",
     zip_safe=False,
     ext_modules=ext,
     url="https://github.com/SMTorg/smt",  # use the URL to the github repo
